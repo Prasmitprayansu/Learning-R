@@ -16,7 +16,7 @@ To develop a strong foundation in R programming and data analysis skills by work
 ## 🚀 What I'm Learning
 
 - **R Programming Basics**: Variables, data types, operators, control structures
-- **Data Manipulation**: Working with data frames, filtering, transforming data
+- **Data Manipulation**: Working with data frames, filtering, and transforming data
 - **Data Loading**: Reading data from CSV files and other formats
 - **Exploratory Data Analysis**: Understanding data structure and patterns
 - **R Packages**: Leveraging popular libraries like tidyverse, ggplot2, and dplyr
@@ -128,4 +128,4 @@ This repository contains personal learning materials based on publicly available
 
 **Status**: 🔄 Ongoing  
 **Last Updated**: May 2026  
-**Next Update**: When new modules are completed
+**Next Update**: When new modules are completed.
