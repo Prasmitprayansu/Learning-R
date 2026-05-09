@@ -129,5 +129,3 @@ This repository contains personal learning materials based on publicly available
 **Status**: 🔄 Ongoing  
 **Last Updated**: May 2026  
 **Next Update**: When new modules are completed
-
-*"The more you learn, the more you realize how much you don't know." - A data scientist's journey* 📈
