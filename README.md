@@ -54,31 +54,6 @@ This repository contains practical workbooks and scripts built while learning R,
 
 ---
 
-## 📂 Repository Contents
-
-```
-Learning-R/
-├── 01-Getting-Started/
-│   ├── first_steps.Rmd
-│   ├── data_types_and_structures.R
-│   └── README.md
-├── 02-Data-Wrangling/
-│   ├── dplyr_essentials.Rmd
-│   ├── tidying_data.R
-│   └── exercises.R
-├── 03-EDA-Visualizations/
-│   ├── exploratory_analysis.Rmd
-│   ├── ggplot2_tutorial.R
-│   └── real_world_examples/
-├── datasets/
-│   └── [Kaggle datasets used in workbooks]
-├── notes/
-│   └── [Learning summaries and takeaways]
-└── README.md
-```
-
----
-
 ## 🎯 Key Projects & Workbooks
 
 ### 📊 Kaggle Workbooks Integration
@@ -161,14 +136,9 @@ This is an **active learning repository** with regular updates:
 - 🔄 In Progress: Advanced data wrangling techniques
 - 📋 Planned: Machine learning and predictive modeling
 
-**Last Updated**: [Add current date]  
-**Status**: Actively maintained
-
 ---
 
 ## 💬 Reflections & Key Learnings
-
-> *Document your "aha" moments and key insights here*
 
 - Understanding vectorization makes R code significantly more efficient
 - tidyverse syntax is intuitive and reduces repetitive code
@@ -185,12 +155,6 @@ This is a personal learning project. However, feedback and suggestions are welco
 
 ---
 
-## 📝 License
-
-This project is open source under the **MIT License** – see [LICENSE](LICENSE) file for details.
-
----
-
 ## 👤 Author
 
 **Prasmit Prayansu**  
@@ -198,8 +162,6 @@ B.Tech Computer Science Student | Data Enthusiast | R Learner
 
 📧 Connect with me:
 - GitHub: [@Prasmitprayansu](https://github.com/Prasmitprayansu)
-- LinkedIn: [Your LinkedIn URL]
-- Portfolio: [Your Portfolio URL]
 
 ---
 
@@ -209,6 +171,3 @@ B.Tech Computer Science Student | Data Enthusiast | R Learner
 - Kaggle community for datasets and learning resources
 - Open-source R community for amazing packages and tools
 
----
-
-**⭐ If this repository helped you learn R, consider giving it a star!**
